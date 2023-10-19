@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viivakoodi/static/css/main.dac35af7.css",
+    "main.js": "/viivakoodi/static/js/main.deefb93d.js",
+    "static/js/787.9298ab44.chunk.js": "/viivakoodi/static/js/787.9298ab44.chunk.js",
+    "index.html": "/viivakoodi/index.html",
+    "main.dac35af7.css.map": "/viivakoodi/static/css/main.dac35af7.css.map",
+    "main.deefb93d.js.map": "/viivakoodi/static/js/main.deefb93d.js.map",
+    "787.9298ab44.chunk.js.map": "/viivakoodi/static/js/787.9298ab44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac35af7.css",
+    "static/js/main.deefb93d.js"
+  ]
+}
